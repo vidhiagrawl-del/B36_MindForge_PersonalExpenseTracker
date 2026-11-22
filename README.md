@@ -3,7 +3,7 @@ Personal Expense Tracker developed in C for the C Programming Mini Hackathon.
 
 ## Algorithm
 
-Step 1: START <br>
+Step 1: START
 Step 2: Initialize expenseCount = 0, monthlyBudget = 0
 Step 3: Display Main Menu (1 to 7)
 Step 4: Take choice from user
