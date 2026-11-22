@@ -13,7 +13,7 @@ Step 7: IF choice == 6 THEN STOP <br>
 Step 8: Go to Step 3 <br>
 Step 9: END
 
- Test Cases 
+## Test Cases 
 
 | Test No. | Test Case | Input | Expected Output |
 | --- | --- | --- | --- |
