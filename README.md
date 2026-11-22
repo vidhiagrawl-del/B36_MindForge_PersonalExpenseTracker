@@ -1,16 +1,16 @@
 # B36_MindForge_PersonalExpenseTracker
 Personal Expense Tracker developed in C for the C Programming Mini Hackathon.
 
-Algorithm 
+## Algorithm
 
-Step 1: START
-Step 2: Initialize expenseCount = 0
-Step 3: Display Main Menu
-Step 4: Take choice from user
-Step 5: IF choice == 2 THEN Add Expense
-Step 6: IF choice == 3 THEN View Expenses
-Step 7: IF choice == 6 THEN STOP
-Step 8: Go to Step 3
+Step 1: START <br>
+Step 2: Initialize expenseCount = 0 <br>
+Step 3: Display Main Menu <br>
+Step 4: Take choice from user <br>
+Step 5: IF choice == 2 THEN Add Expense <br>
+Step 6: IF choice == 3 THEN View Expenses <br>
+Step 7: IF choice == 6 THEN STOP <br>
+Step 8: Go to Step 3 <br>
 Step 9: END
 
  Test Cases 
