@@ -33,3 +33,12 @@ Step 7: IF choice == 6 THEN
             Go to Step 3
 
 Step 8: END
+
+Test Cases 
+
+| Test No. | Test Case | Input | Expected Output |
+| 1 | Add Valid Expense | 500, Food | Expense Added Successfully! |
+| 2 | Add Invalid Category | 200, Party | Invalid category! |
+| 3 | View Empty List | No expense added | No expenses added yet! |
+| 4 | View Expense List | Added 500 Food, 200 Travel | Both expenses displayed |
+| 5 | Invalid Choice | Choice: 9 | Invalid choice! |
